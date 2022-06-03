@@ -2,7 +2,7 @@
 
 
 /**
- * main - Prints "\"Programming is like bulding a multilingual puzzle"
+ * main - Puts "\"Programming is like bulding a multilingual puzzle"
  *
  * Description: returns a string
  */
