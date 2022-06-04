@@ -4,6 +4,8 @@
  * main - code entry point
  *
  * Description: Fourth task
+ *
+ * Return: Retunz zero
  */
 int main(void)
 {
