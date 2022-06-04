@@ -4,6 +4,8 @@
  * main - entry point
  *
  * Description: Seventh task
+ *
+ * Return: returns zero
  */
 int main(void)
 {
