@@ -4,6 +4,8 @@
  * main - entry point
  *
  * Description: Eight task
+ *
+ * Return: zero
  */
 int main(void)
 {
