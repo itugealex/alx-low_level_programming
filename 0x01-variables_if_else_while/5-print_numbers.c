@@ -4,6 +4,8 @@
  * main - code entry point
  *
  * Description: Sixth task
+ *
+ * Return: Returns zero
  */
 int main(void)
 {
