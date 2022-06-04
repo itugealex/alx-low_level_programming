@@ -4,6 +4,8 @@
  * main - main entry point
  *
  * Description: Fifth task
+ *
+ * Return: Return zero
  */
 int main(void)
 {
