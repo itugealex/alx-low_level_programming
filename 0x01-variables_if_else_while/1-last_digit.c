@@ -6,6 +6,8 @@
  * main - main entry point
  *
  * Description: alx course
+ *
+ * Return: Returnx zero
  */
 int main(void)
 {
