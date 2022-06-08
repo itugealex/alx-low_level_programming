@@ -15,4 +15,5 @@ int main(void)
 	{
 		_putchar(i);
 	}
+	return (0);
 }
