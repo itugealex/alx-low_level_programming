@@ -1,4 +1,5 @@
-#include "main.h"
+#define main "main.h"
+#include "main"
 
 /**
  * main - main entry point of code.
