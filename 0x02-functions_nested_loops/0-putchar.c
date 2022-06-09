@@ -11,7 +11,7 @@
 
 int main(void)
 {
-	string str = "_putchar ";
+	char str[] = "_putchar ";
 	int i =0;
 
 	while ( i < 9)
