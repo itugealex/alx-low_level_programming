@@ -1,19 +1,16 @@
 #include "main.h"
 
 /**
- * main - Code entry point.
- *
- * Description: code description.
- *
- * Return: Returns zero.
+ * print_alphabet - prints the alphabet in small letter
+ * void has no return value
  */
-
-int main(void)
+void print_alphabet(void)
 {
-	char i;
-	for( i = 0; i <= 'z'; i++)
+	char ch;
+
+	for (ch = 'a'; ch <= 'z'; ch++)
 	{
-		_putchar(i);
+		_putchar(ch);
 	}
-	return (0);
+	_putchar('\n');
 }

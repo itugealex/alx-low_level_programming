@@ -1,23 +1,19 @@
-#include "main.h"
+#include <stdio.h>
 
 /**
- * main - main entry point of code.
- *
- * Description: Prints putchar.
- *
- * Return: Returns zero
- *
+ * main - prints _putchar
+ * Return: Always 0 (Success)
  */
-
 int main(void)
 {
-	char str[] = "_putchar ";
-	int i =0;
-
-	while ( i < 9)
-	{
-		_putchar(str[i]);
-		i++;
-	}
+	putchar('_');
+	putchar('p');
+	putchar('u');
+	putchar('t');
+	putchar('c');
+	putchar('h');
+	putchar('a');
+	putchar('r');
+	putchar('\n');
 	return (0);
 }
